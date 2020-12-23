@@ -1,9 +1,7 @@
 # NigMeasurement
 Nigerian Internet Measurement
-url <- "http://www.online-image-editor.com//styles/2014/images/example_image.png"
-```
-## Some cat!
-<center><img src="`r url`"></center>
+
+![Nigerian Map](https://upload.wikimedia.org/wikipedia/commons/d/d2/Nigeria_political.png)
 
 
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+
