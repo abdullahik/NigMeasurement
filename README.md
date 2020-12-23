@@ -8,6 +8,9 @@ The app can be used for:
   1. internet speed measurement
   2. Ping Test and 
   3. Traceroute 
+  
+ [Please click to Download the App.](NigTool.apk) 
+ After Installation, the app checks the internet speed and trace periodically
 
 
 ![Nigerian Map](https://upload.wikimedia.org/wikipedia/commons/d/d2/Nigeria_political.png)
