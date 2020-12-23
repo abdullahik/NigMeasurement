@@ -9,7 +9,10 @@ The app can be used for:
   2. Ping Test and 
   3. Traceroute 
   
-## [Please click to Download the App.](NigTool.apk) 
+## [Please click to Download the App.](NigTool.apk)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="70">](NigTool.apk)
  
  After Installation, the app checks the internet speed and trace periodically
 
